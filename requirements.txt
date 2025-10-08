@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy<2.0
+statsmodels
+pmdarima
+scikit-learn
+xgboost
+matplotlib
+
