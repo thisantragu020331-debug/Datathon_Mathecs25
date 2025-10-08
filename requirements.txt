@@ -1,9 +1,12 @@
-streamlit
-pandas
-numpy<2.0
-statsmodels
-pmdarima
-scikit-learn
-xgboost
-matplotlib
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+scikit-learn==1.5.1
+xgboost==2.1.1
+statsmodels==0.14.2
+pmdarima==2.0.4
+Cython==3.0.10
+setuptools==70.0.0
+wheel==0.43.0
 
